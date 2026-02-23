@@ -1,6 +1,6 @@
 # <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mustafa%20Damisi&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 👋 Professional AI Engineer & Full Stack Architect
+### 👋 Professional AI Engineer & Machine Learning Architect
 
 I am a specialized **AI Engineer** and **Machine Learning Architect** focused on building intelligent systems that merge cutting-edge research with scalable production environments. My expertise spans from deep learning and computer vision to architecting complex full-stack ecosystems.
 
@@ -34,10 +34,14 @@ I am a specialized **AI Engineer** and **Machine Learning Architect** focused on
 
 ---
 
-### 📊 GitHub Analysis
+### 📈 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafadamisi&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafadamisi&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff&bg_color=00000000" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafadamisi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafadamisi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/mostafadamisi" alt="Mustafa's Blue Contribution Graph" width="100%" />
 </p>
 
 ---
